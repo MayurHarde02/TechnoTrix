@@ -40,14 +40,14 @@ The password strength checker will be implemented using the following steps:
 
 Evaluation Criteria:- 
 
-At least 1 lowercase letter
+1).At least 1 lowercase letter
 
-At least 1 uppercase letter
+2).At least 1 uppercase letter
 
-At least 1 digit
+3).At least 1 digit
 
-At least 1 special character
+4).At least 1 special character
 
-At least 8 characters long
+5).At least 8 characters long
 
-At least 12 characters long
+6).At least 12 characters long
