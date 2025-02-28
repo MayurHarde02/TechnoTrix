@@ -16,7 +16,9 @@ Features:-
 Prerequisites:-
 
 1).HTML
+
 2).CSS
+
 3).JavaScript
 
 Approach:-
@@ -24,16 +26,25 @@ Approach:-
 The password strength checker will be implemented using the following steps:
 
 1).Create an HTML form that includes an input field for entering passwords using some tags that help to build the structure of the project <form>,<div>,<h>, etc.
+
 2).Styling the project using the CSS some properties that are used border, margin, padding, etc.
+
 3).Utilize JavaScript to analyze the characteristics of passwords and calculate their strengths.
+
 4).Display the assessed strength of passwords using indicators such as colors or progress bars.
+
 5).Provide users with feedback, about their password strength based on predefined criteria.
 
 Evaluation Criteria:- 
 
 At least 1 lowercase letter
+
 At least 1 uppercase letter
+
 At least 1 digit
+
 At least 1 special character
+
 At least 8 characters long
+
 At least 12 characters long
