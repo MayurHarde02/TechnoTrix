@@ -1,12 +1,10 @@
-# TechnoTrix
+# Password Strength Analysis
 
-Password Strength Analysis
-
-Overview:- 
+# Overview:- 
 
 This project aims to create a password strength checker using HTML, CSS, and JavaScript that is going to be responsible for checking the strength of a password for the user's understanding of their password strength by considering the length of the password which will be that the password should contain at least 8 characters and the other is that the password should contain one uppercase letter, one lowercase letter, one number and one special character.
 
-Features:-
+# Features:-
 
 1).Checks password length and complexity
 
@@ -16,7 +14,7 @@ Features:-
 
 4).Provides feedback on password strength
 
-Prerequisites:-
+# Prerequisites:-
 
 1).HTML
 
@@ -24,7 +22,7 @@ Prerequisites:-
 
 3).JavaScript
 
-Approach:-
+# Approach:-
 
 The password strength checker will be implemented using the following steps:
 
@@ -38,7 +36,7 @@ The password strength checker will be implemented using the following steps:
 
 5).Provide users with feedback, about their password strength based on predefined criteria.
 
-Evaluation Criteria:- 
+# Evaluation Criteria:- 
 
 1).At least 1 lowercase letter
 
