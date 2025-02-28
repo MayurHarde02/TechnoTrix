@@ -9,8 +9,11 @@ This project aims to create a password strength checker using HTML, CSS, and Jav
 Features:-
 
 1).Checks password length and complexity
+
 2).Detects common patterns and dictionary words
+
 3).Estimates password entropy
+
 4).Provides feedback on password strength
 
 Prerequisites:-
@@ -25,7 +28,7 @@ Approach:-
 
 The password strength checker will be implemented using the following steps:
 
-1).Create an HTML form that includes an input field for entering passwords using some tags that help to build the structure of the project <form>,<div>,<h>, etc.
+1).Create an HTML form that includes an input field for entering passwords using some tags that help to build the structure of the project.
 
 2).Styling the project using the CSS some properties that are used border, margin, padding, etc.
 
