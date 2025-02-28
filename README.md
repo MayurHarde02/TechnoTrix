@@ -49,3 +49,31 @@ The password strength checker will be implemented using the following steps:
 5).At least 8 characters long
 
 6).At least 12 characters long
+
+
+# Problem & Solution:-
+
+Problem: Weak passwords are one of the leading causes of cybersecurity breaches. Users often create passwords that are easy to guess or reuse across multiple accounts, making them vulnerable to attacks.
+
+Importance: Studies show that over 80% of hacking-related breaches are due to weak or stolen passwords. Cybercriminals use techniques like brute-force attacks and dictionary attacks to crack weak passwords, leading to financial and data losses.
+
+Solution: Our Password Strength Analyzer provides real-time feedback on password security, helping users create stronger passwords by analyzing complexity, length, and predictability.
+
+# Technology & Implementation:-
+
+Tech Stack
+
+JavaScript, HTML, and CSS for frontend user interface
+
+System Architecture:
+
+1).User inputs a password in the web interface.
+
+2).The frontend validates the input and sends it to the backend for analysis.
+
+3).The backend calculates entropy, checks for dictionary words, and applies strength rules.
+
+4).Feedback is returned to the user with strength level and recommendations.
+
+
+
