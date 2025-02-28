@@ -75,5 +75,13 @@ System Architecture:
 
 4).Feedback is returned to the user with strength level and recommendations.
 
+Key Features:
+Measures password entropy to determine strength.
+Identifies common words, sequences, and predictable patterns.
+
+
+
+
+
 
 
